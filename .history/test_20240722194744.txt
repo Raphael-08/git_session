@@ -1,0 +1,4 @@
+file_path = '/home/mrv/git_session/test.txt'
+
+with open(file_path, 'w') as file:
+    file.write('Hello, world!')
